@@ -1,0 +1,234 @@
+{
+  "listName": "GAZA_LIST",
+  "companies": [
+    {
+      "CompanyName": "Elbit Systems",
+      "Description": "An Israeli arms manufacturer, a primary supplier of drones and other military technology to the Israeli military, used in operations in Gaza and the occupied Palestinian territories. Its technologies are integral to Israeli fighter aircraft, battle tanks, and warships, and its drones have been linked to war crimes. It also profits from supplying equipment for the Israeli Apartheid Wall."
+    },
+    {
+      "CompanyName": "Israel Aerospace Industries",
+      "Description": "An Israeli arms manufacturer, alongside Elbit Systems, it has developed and supplied drones used by the Israeli military for surveillance and target intelligence in Gaza and the occupied Palestinian territories. Its products are integrated into Israel's aerial power."
+    },
+    {
+      "CompanyName": "Lockheed Martin",
+      "Description": "A global arms manufacturer. Its F-35 and F-16 fighter jets are pivotal to the Israeli air force and have been integral to equipping Israel with aerial power used in Gaza, dropping an estimated 85,000 tons of bombs post-October 2023. The company also collaborates with Israeli companies on customization and maintenance of the F-35 fleet."
+    },
+    {
+      "CompanyName": "Leonardo S.p.A",
+      "Description": "Post-October 2023, F-35s and F-16s have been integral to equipping Israel with the unprecedented aerial power to drop an estimated 85,000 tons of bombs, kill and injure more than 179,411 Palestinians and obliterate Gaza"
+    },
+    {
+      "CompanyName": "Massachusetts Institute of Technology",
+      "Description": "Collaborates with Israeli companies like Elbit Systems on the development of drone technology used by the Israeli military, including automated weapons systems and swarming capabilities."
+    },
+    {
+      "CompanyName": "FANUC Corporation",
+      "Description": "Suppliers like Japanese FANUC Corporation provide robotic machinery for weapons production lines, including for IAI, Elbit Systems and Lockheed Martin.[73] Shipping companies such as Danish A.P. Moller – Maersk A/S transport components, parts, weapons and raw materials, sustaining a steady flow of US-supplied military equipment post-October 2023"
+    },
+    {
+      "CompanyName": "Maersk",
+      "Description": "Shipping companies such as Danish A.P. Moller – Maersk A/S transport components, parts, weapons and raw materials, sustaining a steady flow of US-supplied military equipment "
+    },
+    {
+      "CompanyName": "NSO Group",
+      "Description": "Founded by ex-Unit 8200 members. Its Pegasus spyware, designed for covert smartphone surveillance, has been used against Palestinian activists and licensed globally to target leaders, journalists and human rights defenders. Exported under the Defense Export Control Law, NSO group surveillance technology enables “spyware diplomacy” while reinforcing state impunity"
+    },
+    {
+      "CompanyName": "IBM",
+      "Description": "IBM has operated in Israel since 1972, training military/intelligence personnel – especially from Unit 8200 – for the tech sector and start-up scene. Since 2019, IBM Israel has operated and upgraded the central database of the Population, Immigration and Borders Authority (PIBA) enabling collection, storage and governmental use of biometric data on Palestinians, and supporting Israel’s discriminatory permit regime."
+    },
+    {
+      "CompanyName": "Hewlett Packard Enterprises",
+      "Description": "Before IBM, Hewlett Packard Enterprises (HPE) maintained this database and its Israeli subsidiary still provides servers during the transition.  HP has long enabled Israel’s apartheid systems, supplying technology to COGAT, the prison service and police. Since HP’s 2015 split into HPE and HP Inc., opaque business structures have obscured the roles of their seven remaining Israeli subsidiaries"
+    },
+    {
+      "CompanyName": "Microsoft",
+      "Description": "Microsoft has been active in Israel since 1991, developing its largest centre outside the US.[94] Its technologies are embedded in the prison service, police, universities and schools – including in colonies.[95] Since 2003, Microsoft has integrated its systems and civilian tech across the Israeli military, while acquiring Israeli cybersecurity and surveillance start-ups."
+    },
+    {
+      "CompanyName": "Alphabet Inc. (Google)",
+      "Description": " Project Nimbus Consortium stepped in with critical cloud and AI infrastructure. Their Israel-located servers ensure data sovereignty and a shield from accountability, under favourable contracts offering minimal restrictions or oversight. In July 2024, an Israeli colonel described cloud tech as “a weapon in every sense of the word”, citing these companies."
+    },
+  
+  {
+    "CompanyName": "Amazon",
+    "Description": "Amazon is named in paragraphs 39–41 of A/HRC/59/23 for its involvement in Project Nimbus, a cloud infrastructure contract with Israel. The report raises concern that Amazon's services may support surveillance and military operations targeting Palestinians."
+  },
+  {
+    "CompanyName": "Alphabet",
+    "Description": "Google, alongside Amazon, is cited in paragraphs 39–41 of A/HRC/59/23 as a contractor for Project Nimbus, which provides cloud services to Israel. These services are said to facilitate data collection, surveillance, and potentially military targeting in the occupied Palestinian territories."
+  },
+  {
+    "CompanyName": "Booking",
+    "Description": "The parent company of Booking.com is criticized in A/HRC/59/23 for listing accommodations in illegal Israeli settlements in occupied Palestinian territory, thereby supporting and profiting from the occupation."
+  },
+  {
+    "CompanyName": "Airbnb",
+    "Description": "Airbnb is mentioned in the report for offering rental listings in Israeli settlements, including properties taken from Palestinian refugees, thus contributing to the normalization and economic viability of illegal settlements."
+  },
+  {
+    "CompanyName": "Caterpillar Inc.",
+    "Description": "Referenced in A/HRC/59/23 as a supplier of armored bulldozers used in demolitions, military operations, and infrastructure projects that support Israeli settlements and the occupation."
+  },
+  {
+    "CompanyName": "Palantir Technologies Inc.",
+    "Description": "Identified in the report as a multinational tech company allegedly complicit in Israeli military operations through the provision of data analysis and surveillance tools."
+  },
+  {
+    "CompanyName": "Auxiliar de Ferrocarriles",
+    "Description": "Named in A/HRC/59/23 for its role in the Jerusalem Light Rail project, which connects illegal Israeli settlements to West Jerusalem, involving expropriated Palestinian land and facilitating settlement expansion."
+  },
+  {
+    "CompanyName": "Keller Williams Realty LLC",
+    "Description": "Cited in the report for marketing properties in illegal Israeli settlements through its Israeli franchise and for hosting a U.S.-Canada real estate roadshow promoting settlement housing."
+  },
+  {
+    "CompanyName": "Drummond Company",
+    "Description": "Identified as a major coal supplier to Israel in 2023, primarily sourcing from Colombia. Its coal fuels Israeli energy needs, including during military operations in Gaza."
+  },
+  {
+    "CompanyName": "Glencore PLC",
+    "Description": "Also cited as a primary coal supplier to Israel in 2023. The report notes its role in sustaining Israel’s energy infrastructure during operations in the occupied territories."
+  },
+  {
+    "CompanyName": "Chevron Corporation",
+    "Description": "Chevron is named as the primary extractor of natural gas in Israeli-controlled Eastern Mediterranean fields. The report raises concerns over its role in financing Israel's military and operations affecting Gaza’s maritime zone."
+  },
+  {
+    "CompanyName": "Tnuva",
+    "Description": "The Israeli dairy company is reported to source milk from settlements in the West Bank and Golan Heights, selling to Palestinians in captive markets and benefiting from the occupation economy."
+  },
+  {
+    "CompanyName": "Bright Food (Group) Co.",
+    "Description": "Bright Food owns a majority stake in Tnuva through its subsidiary Bright Dairy & Food. The report links it indirectly to settlement-sourced dairy production and captive Palestinian markets."
+  },
+  {
+    "CompanyName": "Barclays",
+    "Description": "Cited for holding shares and providing financing to arms manufacturers supplying Israel and for acting as a primary dealer in Israeli government bonds, helping fund military operations."
+  },
+  {
+    "CompanyName": "BNP Paribas",
+    "Description": "Named for guaranteeing Israeli war bonds and investing in Israeli arms manufacturers such as Elbit Systems, directly supporting military actions and settlement infrastructure."
+  },
+  {
+    "CompanyName": "Allianz",
+    "Description": "Reported to invest in Israeli security and weapons firms like Elbit Systems and G4S, which are linked to prison systems, settlement security, and military infrastructure in the West Bank."
+  },
+  {
+    "CompanyName": "AXA",
+    "Description": "The report states AXA invests in Israeli banks that fund settlements, and in Elbit Systems, making it financially complicit in sustaining the occupation and military-industrial complex."
+  },
+  {
+    "CompanyName": "Christian Friends of Israeli Communities",
+    "Description": "Cited as a group that raises funds and promotes support for settlements in the occupied West Bank, presenting them as biblical heartland rather than occupied territory."
+  },
+  {
+    "CompanyName": "Jewish National Fund",
+    "Description": "Named as a longstanding organization involved in purchasing land for Israeli settlement and displacement of Palestinians. The report claims it continues to support these practices under occupation."
+  },
+   {
+    "CompanyName": "RADA Electronic Industries",
+    "Description": "A company named in the report linked to Israeli military technologies involved in occupation-related activities."
+  },
+  {
+    "CompanyName": "Volvo Group",
+    "Description": "Supplies heavy machinery used in construction projects in occupied Palestinian territories, including for settlements and the Separation Wall."
+  },
+  {
+    "CompanyName": "HD Hyundai",
+    "Description": "Parent company of Doosan Bobcat, supplying heavy machinery to the Israeli military used in operations in the occupied territories."
+  },
+  {
+    "CompanyName": "Doosan",
+    "Description": "Parent company of Doosan Enerbility and Doosan Bobcat, providers of heavy machinery to the Israeli military for operations in the occupied territories."
+  },
+  {
+    "CompanyName": "Merkavim Transportation Technologies Ltd.",
+    "Description": "Involved in transport technologies linked to the occupation, including vehicles used in Israeli settlements."
+  },
+  {
+    "CompanyName": "Hanson Israel",
+    "Description": "A company involved in supplying construction materials used in Israeli settlements and the Separation Wall."
+  },
+  {
+    "CompanyName": "Heidelberg Materials AG",
+    "Description": "Supplies cement and other construction materials for settlement infrastructure and occupation-related construction."
+  },
+  {
+    "CompanyName": "Mekorot",
+    "Description": "Israel’s national water company, involved in controlling and supplying water resources in the occupied Palestinian territories."
+  },
+  {
+    "CompanyName": "BP PLC",
+    "Description": "A multinational energy company named in the report for its investments linked to the Israeli economy under occupation."
+  },
+  {
+    "CompanyName": "Paz Retail and Energy Ltd.",
+    "Description": "An Israeli company involved in fuel supply within the occupied territories."
+  },
+  {
+    "CompanyName": "Petrobras",
+    "Description": "Brazilian energy corporation mentioned for its connections to energy resources linked to Israel’s occupation."
+  },
+  {
+    "CompanyName": "Netafim",
+    "Description": "Israeli company producing irrigation technology, used in settlements in the occupied Palestinian territory."
+  },
+  {
+    "CompanyName": "Orbia Advance Corporation",
+    "Description": "Involved in manufacturing and infrastructure projects supporting settlements and occupation-related activities."
+  },
+  {
+    "CompanyName": "Booking Holdings Inc.",
+    "Description": "Parent company of Booking.com, criticized for listing accommodations in illegal Israeli settlements."
+  },
+  {
+    "CompanyName": "Booking.com",
+    "Description": "Listed accommodations in illegal Israeli settlements in the occupied Palestinian territory, profiting from and supporting the occupation."
+  },
+  {
+    "CompanyName": "Blackrock",
+    "Description": "Financial multinational named as complicit through investments in companies tied to Israel's occupation and military actions."
+  },
+  {
+    "CompanyName": "Vanguard",
+    "Description": "A major asset manager implicated through its holdings in companies supporting Israel’s occupation."
+  },
+  {
+    "CompanyName": "PIMCO",
+    "Description": "Investment management firm involved via financial ties to companies contributing to Israel’s occupation activities."
+  },
+  {
+    "CompanyName": "Development Corporation for Israel",
+    "Description": "A corporate entity involved historically and presently in supporting Israeli settlement development."
+  },
+  {
+    "CompanyName": "iShares",
+    "Description": "Asset management brand linked to investments in companies active in the occupied Palestinian territory."
+  },
+  {
+    "CompanyName": "Government Pension Fund",
+    "Description": "Norwegian sovereign wealth fund, noted for its investment activities relevant to Israeli occupation-linked companies."
+  },
+  {
+    "CompanyName": "Christians for Israel",
+    "Description": "An organization supporting Israel politically and financially, contributing to the ecosystem sustaining the occupation."
+  },
+  {
+    "CompanyName": "Israel Gives",
+    "Description": "Fundraising platform supporting Israeli settlements and organizations active in the occupied Palestinian territories."
+  },
+  {
+    "CompanyName": "Technical University of Munich",
+    "Description": "European academic institution involved in projects connected to technologies or research linked with the occupation."
+  },
+  {
+    "CompanyName": "Horizon Europe",
+    "Description": "European Union research program funding projects that may be linked to Israeli entities involved in the occupation."
+  },
+  {
+    "CompanyName": "University of Edinburgh",
+    "Description": "Academic institution mentioned regarding research or collaborations potentially tied to occupation-linked activities."
+  }
+]
+}
